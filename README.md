@@ -1,5 +1,5 @@
 # EmployeeDirectory
-An employee list that fethces data from an API and stores images with NSCache. Includes unit tests. 
+An employee list that fethces data from an API and stores images with NSCache. Includes unit tests. Drag down to refresh.
 
 <img src="https://github.com/frankusu/EmployeeDirectory/assets/6004432/b24deb09-21a1-4c6e-952e-7b8f3148c5ee" height="500">
 
